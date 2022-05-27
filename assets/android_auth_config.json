@@ -1,0 +1,17 @@
+{
+  "client_id": "5c73d323-db67-44f4-a04a-12aa9c0bfede",
+  "authorization_user_agent": "DEFAULT",
+  "redirect_uri": "msauth://com.newswarweb/Bmce%2B9aHdOoVtE7fS3B07tfj7Bc%3D",
+  "account_mode": "SINGLE",
+  "broker_redirect_uri_registered": true,
+  "shared_device_mode_supported": true,
+  "authorities": [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADandPersonalMicrosoftAccount",
+        "tenant_id": "common"
+      }
+    }
+  ]
+}

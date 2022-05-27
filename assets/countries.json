@@ -1,0 +1,906 @@
+[{
+  "_id": {
+    "$oid": "602dde0764f3802c6453641b"
+  },
+  "country": "India",
+  "countryFlag": "https://www.countryflags.io/IN/shiny/64.png",
+  "FlagName": "india",
+  "__v": 0,
+  "countryCode": "IN",
+  "countryCode_digits": "+91",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "602dde1064f3802c6453641c"
+  },
+  "country": "Qatar",
+  "countryFlag": "https://www.countryflags.io/QA/flat/64.png",
+  "FlagName": "qatar",
+  "__v": 0,
+  "countryCode": "QA",
+  "countryCode_digits": "+974",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "602dde2f64f3802c6453641d"
+  },
+  "country": "USA",
+  "countryFlag": "https://www.countryflags.io/US/shiny/64.png",
+  "FlagName": "united-states-of-america",
+  "__v": 0,
+  "countryCode": "US",
+  "countryCode_digits": "+1",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609b5c71bce7f228c00da099"
+  },
+  "country": "Sweden",
+  "countryFlag": "https://www.countryflags.io/SE/flat/64.png",
+  "countryCode": "SE",
+  "createdAt": {
+    "$date": "2021-05-12T04:41:21.793Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T04:41:21.793Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+46",
+  "min_length":"7",
+  "max_length":"7"
+},{
+  "_id": {
+    "$oid": "609b655d304bd1091d49c8d5"
+  },
+  "country": "Norway",
+  "countryFlag": "https://www.countryflags.io/NO/flat/64.png",
+  "countryCode": "NO",
+  "createdAt": {
+    "$date": "2021-05-12T05:19:25.115Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T05:19:25.115Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+47",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "609b6a65304bd1091d49c8d6"
+  },
+  "country": "Albania",
+  "countryFlag": "https://www.countryflags.io/AL/flat/64.png",
+  "countryCode": "AL",
+  "createdAt": {
+    "$date": "2021-05-12T05:40:53.785Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T05:40:53.785Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+355",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "609b6ad2304bd1091d49c8d7"
+  },
+  "country": "Algeria",
+  "countryFlag": "https://www.countryflags.io/DZ/flat/64.png",
+  "countryCode": "DZ",
+  "createdAt": {
+    "$date": "2021-05-12T05:42:42.204Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T05:42:42.204Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+213",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609ba37c304bd1091d49c8eb"
+  },
+  "country": "American Samoa",
+  "countryFlag": "https://www.countryflags.io/AS/flat/64.png",
+  "countryCode": "AS",
+  "createdAt": {
+    "$date": "2021-05-12T09:44:28.267Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T09:44:28.267Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+1684",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609ba40b304bd1091d49c8ec"
+  },
+  "country": "Andorra",
+  "countryFlag": "https://www.countryflags.io/AD/flat/64.png",
+  "countryCode": "AD",
+  "createdAt": {
+    "$date": "2021-05-12T09:46:51.921Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T09:46:51.921Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+376",
+  "min_length":"6",
+  "max_length":"6"
+},{
+  "_id": {
+    "$oid": "609ba43a304bd1091d49c8ed"
+  },
+  "country": "Angola",
+  "countryFlag": "https://www.countryflags.io/AO/flat/64.png",
+  "countryCode": "AO",
+  "createdAt": {
+    "$date": "2021-05-12T09:47:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T09:47:38.890Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+244",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609ba463304bd1091d49c8ee"
+  },
+  "country": "Anguilla",
+  "countryFlag": "https://www.countryflags.io/AI/flat/64.png",
+  "countryCode": "AI",
+  "createdAt": {
+    "$date": "2021-05-12T09:48:19.549Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T09:48:19.549Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+1264",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609ba4b8304bd1091d49c8ef"
+  },
+  "country": "Antigua and Barbuda",
+  "countryFlag": "https://www.countryflags.io/AG/flat/64.png",
+  "countryCode": "AG",
+  "createdAt": {
+    "$date": "2021-05-12T09:49:44.500Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T09:49:44.500Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+1268",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609ba51b304bd1091d49c8f0"
+  },
+  "country": "Argentina",
+  "countryFlag": "https://www.countryflags.io/AR/flat/64.png",
+  "countryCode": "AR",
+  "createdAt": {
+    "$date": "2021-05-12T09:51:23.039Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T09:51:23.039Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+54",
+  "min_length":"11",
+  "max_length":"11"
+},{
+  "_id": {
+    "$oid": "609ba578304bd1091d49c8f1"
+  },
+  "country": "Armenia",
+  "countryFlag": "https://www.countryflags.io/AM/flat/64.png",
+  "countryCode": "AM",
+  "createdAt": {
+    "$date": "2021-05-12T09:52:56.822Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T09:52:56.822Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+374",
+  "min_length":"6",
+  "max_length":"6"
+},{
+  "_id": {
+    "$oid": "609bb747ff8c262f8689cbb6"
+  },
+  "country": "Aruba",
+  "countryFlag": "https://www.countryflags.io/AW/flat/64.png",
+  "countryCode": "AW",
+  "createdAt": {
+    "$date": "2021-05-12T11:08:55.311Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T11:08:55.311Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+297",
+  "min_length":"7",
+  "max_length":"7"
+},{
+  "_id": {
+    "$oid": "609c101022e371093b823c39"
+  },
+  "country": "Australia",
+  "countryFlag": "https://www.countryflags.io/AU/flat/64.png",
+  "countryCode": "AU",
+  "createdAt": {
+    "$date": "2021-05-12T17:27:44.283Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T17:27:44.283Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+61",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c1637a1116709106a510a"
+  },
+  "country": "Austria",
+  "countryFlag": "https://www.countryflags.io/AT/flat/64.png",
+  "countryCode": "AT",
+  "createdAt": {
+    "$date": "2021-05-12T17:53:59.665Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T17:53:59.665Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+43",
+  "min_length":"10",
+  "max_length":"11"
+},{
+  "_id": {
+    "$oid": "609c1681a1116709106a510b"
+  },
+  "country": "Azerbaijan",
+  "countryFlag": "https://www.countryflags.io/AZ/flat/64.png",
+  "countryCode": "AZ",
+  "createdAt": {
+    "$date": "2021-05-12T17:55:13.290Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T17:55:13.290Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+994",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c18a3a1116709106a510f"
+  },
+  "country": "Bahamas",
+  "countryFlag": "https://www.countryflags.io/BS/flat/64.png",
+  "countryCode": "BS",
+  "createdAt": {
+    "$date": "2021-05-12T18:04:19.852Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:04:19.852Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+1242",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609c1934a1116709106a5110"
+  },
+  "country": "Bahrain",
+  "countryFlag": "https://www.countryflags.io/BH/flat/64.png",
+  "countryCode": "BH",
+  "createdAt": {
+    "$date": "2021-05-12T18:06:44.858Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:06:44.858Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+973",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "609c19ffa1116709106a5111"
+  },
+  "country": "Bangladesh",
+  "countryFlag": "https://www.countryflags.io/BD/flat/64.png",
+  "countryCode": "BD",
+  "createdAt": {
+    "$date": "2021-05-12T18:10:07.853Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:10:07.853Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+880",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609c1a33a1116709106a5112"
+  },
+  "country": "Barbados",
+  "countryFlag": "https://www.countryflags.io/BB/flat/64.png",
+  "countryCode": "BB",
+  "createdAt": {
+    "$date": "2021-05-12T18:10:59.681Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:10:59.681Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+1246",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609c1ce8a1116709106a5113"
+  },
+  "country": "Belarus",
+  "countryFlag": "https://www.countryflags.io/BY/flat/64.png",
+  "countryCode": "BY",
+  "createdAt": {
+    "$date": "2021-05-12T18:22:32.476Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:22:32.476Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+375",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c1d3ba1116709106a5114"
+  },
+  "country": "Belgium",
+  "countryFlag": "https://www.countryflags.io/BE/flat/64.png",
+  "countryCode": "BE",
+  "createdAt": {
+    "$date": "2021-05-12T18:23:55.721Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:23:55.721Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+32",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c1d78a1116709106a5115"
+  },
+  "country": "Belize",
+  "countryFlag": "https://www.countryflags.io/BZ/flat/64.png",
+  "countryCode": "BZ",
+  "createdAt": {
+    "$date": "2021-05-12T18:24:56.021Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:24:56.021Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+501",
+  "min_length":"7",
+  "max_length":"7"
+},{
+  "_id": {
+    "$oid": "609c1ddba1116709106a5116"
+  },
+  "country": "Benin",
+  "countryFlag": "https://www.countryflags.io/BJ/flat/64.png",
+  "countryCode": "BJ",
+  "createdAt": {
+    "$date": "2021-05-12T18:26:35.148Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:26:35.148Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+229",
+  "min_length":"6",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c1e0ca1116709106a5117"
+  },
+  "country": "Bermuda",
+  "countryFlag": "https://www.countryflags.io/BM/flat/64.png",
+  "countryCode": "BM",
+  "createdAt": {
+    "$date": "2021-05-12T18:27:24.938Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:27:24.938Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+1441",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609c1e49a1116709106a5118"
+  },
+  "country": "Bhutan",
+  "countryFlag": "https://www.countryflags.io/BT/flat/64.png",
+  "countryCode": "BT",
+  "createdAt": {
+    "$date": "2021-05-12T18:28:25.824Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:28:25.824Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+975",
+  "min_length":"7",
+  "max_length":"7"
+},{
+  "_id": {
+    "$oid": "609c1ec6a1116709106a5119"
+  },
+  "country": "Bolivia",
+  "countryFlag": "https://www.countryflags.io/BO/flat/64.png",
+  "countryCode": "BO",
+  "createdAt": {
+    "$date": "2021-05-12T18:30:30.364Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:30:30.364Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+591",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c1f7ea1116709106a511a"
+  },
+  "country": "Botswana",
+  "countryFlag": "https://www.countryflags.io/BW/flat/64.png",
+  "countryCode": "BW",
+  "createdAt": {
+    "$date": "2021-05-12T18:33:34.698Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:33:34.698Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+267",
+  "min_length":"7",
+  "max_length":"7"
+},{
+  "_id": {
+    "$oid": "609c1ff6a1116709106a511b"
+  },
+  "country": "Brazil",
+  "countryFlag": "https://www.countryflags.io/BR/flat/64.png",
+  "countryCode": "BR",
+  "createdAt": {
+    "$date": "2021-05-12T18:35:34.494Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:35:34.494Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+55",
+  "min_length":"11",
+  "max_length":"11"
+},{
+  "_id": {
+    "$oid": "609c208ba1116709106a511c"
+  },
+  "country": "Brunei Darussalam",
+  "countryFlag": "https://www.countryflags.io/BN/flat/64.png",
+  "countryCode": "BN",
+  "createdAt": {
+    "$date": "2021-05-12T18:38:03.606Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:38:03.606Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+673",
+  "min_length":"7",
+  "max_length":"7"
+},{
+  "_id": {
+    "$oid": "609c20b5a1116709106a511d"
+  },
+  "country": "Bulgaria",
+  "countryFlag": "https://www.countryflags.io/BG/flat/64.png",
+  "countryCode": "BG",
+  "createdAt": {
+    "$date": "2021-05-12T18:38:45.477Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:38:45.477Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+359",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c2111a1116709106a511e"
+  },
+  "country": "Burkina Faso",
+  "countryFlag": "https://www.countryflags.io/BF/flat/64.png",
+  "countryCode": "BF",
+  "createdAt": {
+    "$date": "2021-05-12T18:40:17.846Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:40:17.846Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+226",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "609c218ba1116709106a511f"
+  },
+  "country": "Burundi",
+  "countryFlag": "https://www.countryflags.io/BI/flat/64.png",
+  "countryCode": "BI",
+  "createdAt": {
+    "$date": "2021-05-12T18:42:19.079Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:42:19.079Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+257",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "609c23f5a1116709106a5120"
+  },
+  "country": "Cambodia",
+  "countryFlag": "https://www.countryflags.io/KH/flat/64.png",
+  "countryCode": "KH",
+  "createdAt": {
+    "$date": "2021-05-12T18:52:37.393Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:52:37.393Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+855",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c243aa1116709106a5121"
+  },
+  "country": "Cameroon",
+  "countryFlag": "https://www.countryflags.io/CM/flat/64.png",
+  "countryCode": "CM",
+  "createdAt": {
+    "$date": "2021-05-12T18:53:46.406Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:53:46.406Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+237",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c2464a1116709106a5122"
+  },
+  "country": "Canada",
+  "countryFlag": "https://www.countryflags.io/CA/flat/64.png",
+  "countryCode": "CA",
+  "createdAt": {
+    "$date": "2021-05-12T18:54:28.530Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:54:28.530Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+1"
+  ,
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609c24a1a1116709106a5123"
+  },
+  "country": "Cape Verde",
+  "countryFlag": "https://www.countryflags.io/CV/flat/64.png",
+  "countryCode": "CV",
+  "createdAt": {
+    "$date": "2021-05-12T18:55:29.166Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:55:29.166Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+238",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c24cea1116709106a5124"
+  },
+  "country": "Cayman Islands",
+  "countryFlag": "https://www.countryflags.io/KY/flat/64.png",
+  "countryCode": "KY",
+  "createdAt": {
+    "$date": "2021-05-12T18:56:14.362Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:56:14.362Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+1345",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609c2507a1116709106a5125"
+  },
+  "country": "Chad",
+  "countryFlag": "https://www.countryflags.io/TD/flat/64.png",
+  "countryCode": "TD",
+  "createdAt": {
+    "$date": "2021-05-12T18:57:11.371Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:57:11.371Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+235",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "609c255ba1116709106a5126"
+  },
+  "country": "Chile",
+  "countryFlag": "https://www.countryflags.io/CL/flat/64.png",
+  "countryCode": "CL",
+  "createdAt": {
+    "$date": "2021-05-12T18:58:35.924Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T18:58:35.924Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+56",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c2637a1116709106a5127"
+  },
+  "country": "China",
+  "countryFlag": "https://www.countryflags.io/CN/flat/64.png",
+  "countryCode": "CN",
+  "createdAt": {
+    "$date": "2021-05-12T19:02:15.037Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:02:15.037Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+86",
+  "min_length":"11",
+  "max_length":"11"
+},{
+  "_id": {
+    "$oid": "609c266aa1116709106a5128"
+  },
+  "country": "Colombia",
+  "countryFlag": "https://www.countryflags.io/CO/flat/64.png",
+  "countryCode": "CO",
+  "createdAt": {
+    "$date": "2021-05-12T19:03:06.412Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:03:06.412Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+57",
+  "min_length":"10",
+  "max_length":"10"
+},{
+  "_id": {
+    "$oid": "609c2693a1116709106a5129"
+  },
+  "country": "Comoros",
+  "countryFlag": "https://www.countryflags.io/KM/flat/64.png",
+  "countryCode": "KM",
+  "createdAt": {
+    "$date": "2021-05-12T19:03:47.530Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:03:47.530Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+269",
+  "min_length":"7",
+  "max_length":"7"
+},{
+  "_id": {
+    "$oid": "609c26c8a1116709106a512a"
+  },
+  "country": "Congo",
+  "countryFlag": "https://www.countryflags.io/CD/flat/64.png",
+  "countryCode": "CD",
+  "createdAt": {
+    "$date": "2021-05-12T19:04:40.428Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:04:40.428Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+243",
+  "min_length":"8",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c27a8a1116709106a512b"
+  },
+  "country": "Czech Republic",
+  "countryFlag": "https://www.countryflags.io/CZ/flat/64.png",
+  "countryCode": "CZ",
+  "createdAt": {
+    "$date": "2021-05-12T19:08:24.994Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:08:24.994Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+420",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c27dea1116709106a512c"
+  },
+  "country": "Cyprus",
+  "countryFlag": "https://www.countryflags.io/CW/flat/64.png",
+  "countryCode": "CW",
+  "createdAt": {
+    "$date": "2021-05-12T19:09:18.642Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:09:18.642Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+357",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "609c286fa1116709106a512d"
+  },
+  "country": "Curaçao",
+  "countryFlag": "https://www.countryflags.io/CZ/flat/64.png",
+  "countryCode": "CZ",
+  "createdAt": {
+    "$date": "2021-05-12T19:11:43.257Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:11:43.257Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+599",
+  "min_length":"7",
+  "max_length":"7"
+},{
+  "_id": {
+    "$oid": "609c28aca1116709106a512e"
+  },
+  "country": "Cuba",
+  "countryFlag": "https://www.countryflags.io/CU/flat/64.png",
+  "countryCode": "CU",
+  "createdAt": {
+    "$date": "2021-05-12T19:12:44.640Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:12:44.640Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+53",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "609c28fda1116709106a512f"
+  },
+  "country": "Croatia",
+  "countryFlag": "https://www.countryflags.io/HR/flat/64.png",
+  "countryCode": "HR",
+  "createdAt": {
+    "$date": "2021-05-12T19:14:05.790Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:14:05.790Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+385",
+  "min_length":"9",
+  "max_length":"9"
+},{
+  "_id": {
+    "$oid": "609c29c7a1116709106a5130"
+  },
+  "country": "Denmark",
+  "countryFlag": "https://www.countryflags.io/DK/flat/64.png",
+  "countryCode": "DK",
+  "createdAt": {
+    "$date": "2021-05-12T19:17:27.021Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T19:17:27.021Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+45",
+  "min_length":"8",
+  "max_length":"8"
+},{
+  "_id": {
+    "$oid": "6111449c484dbc163343e033"
+  },
+  "country": "United Arab Emirates",
+  "countryFlag": "https://www.countryflags.io/ae/flat/64.png",
+  "countryCode": "UA",
+  "createdAt": {
+    "$date": "2021-08-09T15:07:08.536Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-09T15:07:08.536Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+971",
+  "min_length":"9",
+  "max_length":"9"
+},
+{
+  "_id": {
+    "$oid": "6235dc3395400a002ec4e659"
+  },
+  "country": "Oman",
+  "countryFlag": "https://www.countryflags.io/om/flat/64.png",
+  "countryCode": "OM",
+  "createdAt": {
+    "$date": "2022-03-19T13:35:47.576Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-19T13:35:47.576Z"
+  },
+  "__v": 0,
+  "countryCode_digits": "+968",
+  "min_length":"8",
+  "max_length":"8"
+}]

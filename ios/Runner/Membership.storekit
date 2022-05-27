@@ -1,0 +1,67 @@
+{
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "D48FEEC3",
+      "localizations" : [
+
+      ],
+      "name" : "Membership",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "B8F3133A",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlocks the premium features renewed monthly",
+              "displayName" : "Monthly Membership",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.kat.swarapp.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly Membership",
+          "subscriptionGroupID" : "D48FEEC3",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "99.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "A5A61D8C",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlocks the premium features renewed yearly",
+              "displayName" : "Yearly Membership",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.kat.swarapp.yearly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Yearly Membership",
+          "subscriptionGroupID" : "D48FEEC3",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}

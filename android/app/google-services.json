@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1001363259509",
+    "project_id": "swar-doctor",
+    "storage_bucket": "swar-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001363259509:android:915af5fd37ac78d111f83c",
+        "android_client_info": {
+          "package_name": "com.kat.swarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001363259509-e3lg1b2rbnda290f8dcoul0jq4l4sdbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYYtsGweUDoh6JCzIoIIypEuhRrKw4AKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001363259509-e3lg1b2rbnda290f8dcoul0jq4l4sdbh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001363259509-i8ls212daqsrngrnmluml9dkfpjf6080.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kat.swarapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
